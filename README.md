@@ -6,6 +6,8 @@ A multiple-choice general knowledge quiz application.
 
 *Purpose:* to practice using React library.
 
+Deployed for demonstration purposes on Digital Ocean through Cloudways. 
+
 ![Quiz](https://github.com/mbrookeswebdev/quiz-app-react/blob/master/1.png)
 
 ![Quiz](https://github.com/mbrookeswebdev/quiz-app-react/blob/master/2.png)
