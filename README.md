@@ -6,6 +6,12 @@ Technologies used: HTML, CSS, React, Redux.
 
 Purpose: to practice using React library.
 
+![Quiz](https://github.com/mbrookeswebdev/quiz-app-react/blob/master/1.png)
+
+![Quiz](https://github.com/mbrookeswebdev/quiz-app-react/blob/master/2.png)
+
+![Quiz](https://github.com/mbrookeswebdev/quiz-app-react/blob/master/3.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
