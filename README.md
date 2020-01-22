@@ -2,7 +2,7 @@
 
 A multiple-choice general knowledge quiz application.
 
-*Technologies used:* HTML, CSS, React, Redux.
+*Technologies used:* React, Redux.
 
 *Purpose:* to practice using React library.
 
